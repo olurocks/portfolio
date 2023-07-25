@@ -13,8 +13,7 @@ export default function About() {
             </h1>
             <br/>
           <p className="mb-8 leading-relaxed"> 
-A highly skilled and experienced full-stack developer with a strong focus on backend technologies. With over four years of hands-on experience, I've built robust and scalable web applications using a diverse range of frameworks and technologies. My expertise lies in the MERN (MongoDB, Express.js, React, and Node.js) stack, enabling me to excel throughout the entire development process. I take pride in delivering efficient and innovative solutions that consistently exceed client expectations.
-            
+          Experienced full-stack developer with 4+ years of hands-on experience, specializing in backend technologies. Proficient in the MERN stack, delivering robust and scalable web applications. Committed to providing innovative solutions that exceed client expectations.            
           </p>
           <div className="flex justify-center">
             <a
